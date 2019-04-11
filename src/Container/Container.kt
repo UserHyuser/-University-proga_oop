@@ -5,7 +5,7 @@ import java.io.FileWriter
 
 import ProcLg.*
 import ProgLg.*
-
+// Функции, используемые в программе
 class Container {
     var len: Int = 0
     var pg: MutableList<ProgLg?> = mutableListOf()
